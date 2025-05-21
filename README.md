@@ -14,4 +14,4 @@ Aplikasi web sederhana menggunakan PHP Native dan Bootstrap untuk mengelola data
 4. Buka http://127.0.0.1:8000/barangs
 
 ## Screenshot Tampilan
-![Tampilan Aplikasi](screenshot/tampilan.png)
+![Tampilan Aplikasi](screenshot/tampilan.PNG)
